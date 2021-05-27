@@ -1,0 +1,20 @@
+mkdir test
+
+touch index.html
+
+touch styles.css
+
+cd test
+
+git init
+
+git status
+
+git add index.html
+
+git add styles.css
+
+git status
+
+git commit -m "did something important"
+
